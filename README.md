@@ -1,3 +1,3 @@
 # Style Finder Application
 
-### This is a style finder applictaion to faster incorporate styles into CSS.
+### This is an open source project created to faster incorporate styles into CSS.
